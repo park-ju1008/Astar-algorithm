@@ -1,0 +1,26 @@
+This is the start state.
+    2  4  3 
+10  5  8 11 
+12 14  9  7 
+ 1 13  6 15 
+
+==> move right
+ 2     4  3 
+10  5  8 11 
+12 14  9  7 
+ 1 13  6 15 
+
+==> move right
+ 2  4     3 
+10  5  8 11 
+12 14  9  7 
+ 1 13  6 15 
+
+==> move down
+ 2  4  8  3 
+10  5    11 
+12 14  9  7 
+ 1 13  6 15 
+
+This sequence is a path to the goal !!
+Length of the path = 3
